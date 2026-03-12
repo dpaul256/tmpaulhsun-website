@@ -2,6 +2,6 @@ import { defineConfig } from "astro/config";
 
 export default defineConfig({
   output: "static",
-  site: "https://tmpaulhsun.github.io",
-  base: "/tmpaulhsun-website/",
+  site: "https://dpaul256.github.io",
+  base: "/dpaul256.github.io/",
 });
